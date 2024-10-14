@@ -27,3 +27,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+~_autosave-reDOT_RGB.kicad_pcb.lck
+~reDOT_RGB.kicad_pcb.lck
+~reDOT_RGB.kicad_pcb.lck
